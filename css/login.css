@@ -1,0 +1,89 @@
+html{
+    font-family: Arial;
+}
+.loginform{
+    text-align: center;
+  border: 3px solid black;
+  background-color: lightgreen;
+  box-shadow: 5px 10px darkgray;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 50%;
+  margin: auto;
+  margin-top: 10%;
+}
+.logintitle{
+    color: darkgreen;
+    font-weight: bolder;
+}
+
+.registerform{
+    text-align: center;
+  border: 3px solid red;
+  background-color: lightsalmon;
+  box-shadow: 5px 10px darkgray;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 50%;
+  margin: auto;
+  margin-top: 10%;
+}
+.registertitle{
+    color: darkred;
+    font-weight: bolder;
+}
+
+.ponudnikaddform{
+    text-align: center;
+  border: 3px solid black;
+  background-color: lightsalmon;
+  box-shadow: 5px 10px darkgray;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 20%;
+  margin:auto;
+}
+.ponudnikaddtitle{
+    color: darkred;
+    font-weight: bolder;
+}
+.admintitle{
+    text-align:center;    
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 30%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    background-color: rgb(231, 77, 77);
+    box-shadow: 5px 5px rgb(131, 60, 60);
+}
+.adminlogout{
+    font-weight: normal;
+    font-style: none;
+    text-decoration: none;
+    color: black;
+}
+.foodform{
+    margin:auto;
+    text-align:center;
+    margin-top: 30px;
+}
+.kategorije{
+    margin-top: 2%;
+}
+.ponudnikijedi,.ponudniklist{
+    text-align:center;
+    margin-top: 30px;
+}
